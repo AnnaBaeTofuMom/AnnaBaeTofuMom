@@ -7,3 +7,7 @@ Here is my resume 😀
 Do you want to contribute to dev meme project? Join
 
 [To the repo](https://github.com/AnnaBaeTofuMom/DevMemes)
+
+Visit my blog
+
+[To the blog](https://ios-developer-storage.tistory.com/)
