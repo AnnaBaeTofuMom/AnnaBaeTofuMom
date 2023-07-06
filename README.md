@@ -2,7 +2,7 @@
 
 Here is my resume 😀
 
-[To the resume](https://www.notion.so/beforeanythingelse/Resume-a094c806477e43028150d644349bb07c)
+[To the resume](https://www.notion.so/beforeanythingelse/Anna-Bae-iOS-Developer-16c64ac3a06e4f37af1b3ec9a35b94fb)
 
 Do you want to contribute to dev meme project? Join
 
